@@ -1,0 +1,4 @@
+Reporte N1 fecha:08/07/2024 | presupuesto mayores a 642055083
+4|Red de Transporte Público|Mejora y ampliación de la infraestructura de transporte público|30/03/2023|24/07/2023|937383174|Finalizado
+3|Sistema de Información Epidemiológica|Plataforma para el seguimiento y análisis de datos epidemiológicos|14/06/2023|02/02/2024|850312588|Cancelado
+2|Sistema de Planificación de Recursos|Desarrollo de un sistema avanzado de planificación de recursos empresariales|17/07/2023|18/05/2025|642055083|Activo
